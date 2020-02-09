@@ -1,41 +1,30 @@
-.. title: index
+.. title: Willkommen bei der Troisdorfer Linux User Group
 .. slug: index
-.. date: 2020-01-13 20:32:56 UTC+01:00
+.. date: 1970-01-01 00:00:00 UTC
 .. tags:
-.. category:
 .. link:
-.. description:
-.. type: text
+.. description: Troisdorfer Linux User Group
 
-    .. image:: /galleries/troluglogo2.png
-        :width: 513px
-        :height: 165px
-        :align: center
-        :alt: Louis möchte Fische angeln
+Die TroLUG (Troisdorfer Linux User Group) ist ein Club der Arbeiterwohlfahrt
+Troisdorf (AWO). Wir haben das gemeinsamen Ziel, Wissen über freie Software
+untereinander auszutauschen. Sowohl Anfänger als auch Profis jeder
+Altersklasse, sowie private wie kommerzielle Nutzer sind herzlich
+willkommen.
 
-    **Willkommen bei der Troisdorfer Linux User Group**
+Teilnehmen kann man auch ohne AWO Mitgliedschaft, eine Mitgliedschaft unterstützt die Arbeit jedoch.
 
-    **TroLUG**
-
-    Die TroLUG (Troisdorfer Linux User Group) ist ein Club der Arbeiterwohlfahrt
-    Troisdorf (AWO). Wir haben das gemeinsamen Ziel, Wissen über freie Software
-    untereinander auszutauschen. Sowohl Anfänger als auch Profis jeder
-    Altersklasse, sowie private wie kommerzielle Nutzer sind herzlich
-    willkommen.
-
-    Da wir ein loser Zusammenschluß sind, gibt es keine Mitgliedschaft oder
-    ähnliches.
+.. image:: /images/louis_fisch.png
+   :width: 300px
+   :align: center
+   :alt: Louis möchte Fische angeln
 
 
-    .. image:: /galleries/louis_fisch.png
-        :width: 300px
-        :align: right
-        :alt: Louis möchte Fische angeln
+Mitmachen
+---------
 
-    **Mitmachen**
+Unsere Treffen beginnen jeweils am ersten Donnerstag eines Monats um 19:00 Uhr im
+Agnes Klein Zentrum der Arbeiterwohlfahrt in Troisdorf.
 
-    Unsere Treffen beginnen jeweils am ersten Donnerstag eines Monats um 19:00 Uhr im
-    `Agnes Klein Zentrum` der Arbeiterwohlfahrt in Troisdorf statt.
+Wir tauschen uns auf einer :doc:`Mailingliste` aus.
 
-    Wir tauschen uns auf einer `Mailingliste` aus.
 
