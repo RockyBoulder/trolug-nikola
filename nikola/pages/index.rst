@@ -1,30 +1,41 @@
-.. title: Willkommen bei der Troisdorfer Linux User Group
+.. title: index
 .. slug: index
-.. date: 1970-01-01 00:00:00 UTC
+.. date: 2020-01-13 20:32:56 UTC+01:00
 .. tags:
+.. category:
 .. link:
-.. description: Troisdorfer Linux User Group
+.. description:
+.. type: text
 
-Die TroLUG (Troisdorfer Linux User Group) ist ein Club der Arbeiterwohlfahrt 
-Troisdorf (AWO). Wir haben das gemeinsamen Ziel, Wissen über freie Software 
-untereinander auszutauschen. Sowohl Anfänger als auch Profis jeder 
-Altersklasse, sowie private wie kommerzielle Nutzer sind herzlich 
-willkommen.
+    .. image:: /galleries/troluglogo2.png
+        :width: 513px
+        :height: 165px
+        :align: center
+        :alt: Louis möchte Fische angeln
 
-Teilnehmen kann man auch ohne AWO Mitgliedschaft, eine Mitgliedschaft unterstützt die Arbeit jedoch.
+    **Willkommen bei der Troisdorfer Linux User Group**
 
-.. image:: /images/louis_fisch.png
-   :width: 300px
-   :align: center
-   :alt: Louis möchte Fische angeln
+    **TroLUG**
 
-	 
-Mitmachen
----------
+    Die TroLUG (Troisdorfer Linux User Group) ist ein Club der Arbeiterwohlfahrt
+    Troisdorf (AWO). Wir haben das gemeinsamen Ziel, Wissen über freie Software
+    untereinander auszutauschen. Sowohl Anfänger als auch Profis jeder
+    Altersklasse, sowie private wie kommerzielle Nutzer sind herzlich
+    willkommen.
 
-Unsere Treffen beginnen jeweils am ersten Donnerstag eines Monats um 19:00 Uhr im 
-Agnes Klein Zentrum der Arbeiterwohlfahrt in Troisdorf.
+    Da wir ein loser Zusammenschluß sind, gibt es keine Mitgliedschaft oder
+    ähnliches.
 
-Wir tauschen uns auf einer :doc:`Mailingliste` aus.
 
+    .. image:: /galleries/louis_fisch.png
+        :width: 300px
+        :align: right
+        :alt: Louis möchte Fische angeln
+
+    **Mitmachen**
+
+    Unsere Treffen beginnen jeweils am ersten Donnerstag eines Monats um 19:00 Uhr im
+    `Agnes Klein Zentrum` der Arbeiterwohlfahrt in Troisdorf statt.
+
+    Wir tauschen uns auf einer `Mailingliste` aus.
 
